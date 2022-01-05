@@ -1,0 +1,11 @@
+public class JavaApplication1 {
+    public static void main(String[] args) {
+      int a = 4;
+      int k = a ;
+      k += 10;
+     
+        System.out.println("dap so la " + k);
+
+    
+}
+}
